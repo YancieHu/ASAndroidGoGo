@@ -1,0 +1,7 @@
+#Mon Jan 02 23:48:58 CST 2017
+base.0=H\:\\learn\\AndroidGoGo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d615e44c17c6d046d660e0a720bc909c1a5f06a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\learn\\AndroidGoGo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c832602845e56ac665ad6207dd35038e8c40c9b7\\classes.dex
+base.1=H\:\\learn\\AndroidGoGo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c832602845e56ac665ad6207dd35038e8c40c9b7
+file.0=H\:\\learn\\AndroidGoGo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d615e44c17c6d046d660e0a720bc909c1a5f06a9\\classes.dex
